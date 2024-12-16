@@ -9,5 +9,8 @@ public class Main {
 
         animal.eat("grass");
 
+        Bird bird = new Bird("Tweety", "yellow");
+        bird.fly();
+
     }
 }
